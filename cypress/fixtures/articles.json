@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "slug": "this-is-the-title-884225-1850",
+      "title": "title1",
+      "description": "This is the description",
+      "body": "This is body",
+      "tagList": [],
+      "createdAt": "2022-12-30T04:21:37.164Z",
+      "updatedAt": "2022-12-30T04:21:37.164Z",
+      "favorited": false,
+      "favoritesCount": 4,
+      "author": {
+        "username": "CY Test3r",
+        "bio": "2222",
+        "image": "1111",
+        "following": false
+      }
+    },
+    {
+      "slug": "this-is-the-title-384661-1850",
+      "title": "title2",
+      "description": "This is the description",
+      "body": "This is body",
+      "tagList": [],
+      "createdAt": "2022-12-30T03:47:43.173Z",
+      "updatedAt": "2022-12-30T03:47:43.173Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "CY Test3r",
+        "bio": "2222",
+        "image": "1111",
+        "following": false
+      }
+    }
+
+  ],
+  "articlesCount": 2
+}
